@@ -1,0 +1,6 @@
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\bin\Debug\PROG2070-QualityAssurance03.exe.config
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\obj\Debug\PROG2070-QualityAssurance03.exe
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\obj\Debug\PROG2070-QualityAssurance03.pdb
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\bin\Debug\PROG2070-QualityAssurance03.exe
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\bin\Debug\PROG2070-QualityAssurance03.pdb
+C:\Users\Derek\Desktop\PROG2070-QualityAssurance03 - C\PROG2070-QualityAssurance03\obj\Debug\PROG2070-QualityAssurance03_C.csprojResolveAssemblyReference.cache
